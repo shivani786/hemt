@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 Staging Area
+=======
+<<<<<<< HEAD
+HStaging Area
+=======
+TESTStaging Area
+>>>>>>> test
+>>>>>>> 451be1d82d938babb1ed33af80dcde6eef174bbf
